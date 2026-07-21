@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o Michel! 👋
 
-<!--
-**michelsmartins-s/michelsmartins-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Informática para Internet no IF | Construindo minha base em desenvolvimento de software.
 
-Here are some ideas to get you started:
+Sou estudante do 2º ano do Ensino Médio Técnico Integrado no Instituto Federal (IFRS - Campus Rio Grande). Tenho um forte interesse em desenvolvimento web, resolução de problemas e inovação. Atualmente, busco aplicar meus conhecimentos técnicos para criar soluções web eficientes e reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre o meu momento atual
+
+-  Atualmente desenvolvendo e aprimorando minhas habilidades em **Frontend** e **Banco de Dados**.
+-  Bolsista de Iniciação Científica Jr. (PIC / CNPq), aprofundando estudos em matemática e raciocínio lógico por ser medalhista da **OBMEP**.
+-  Bolsista de Extensão no **CITec**, auxiliando na estruturação do projeto tecnomaker e apoiando o ecossistema de inovação do IFRS.
+-  Foco em criar projetos web responsivos, otimizados e seguros.
+
+---
+
+##  Tecnologias e Ferramentas
+
+**Linguagens e Estruturas Base:**
+- JavaScript (Lógica e Interatividade)
+- HTML5 (Semântica e Estruturação)
+- CSS3 (Estilização e Responsividade)
+- SQL (Modelagem e Consulta de Banco de Dados)
+
+---
+
+## 📬 Como me encontrar
+
+- **LinkedIn:** www.linkedin.com/in/michel-samaniego-b8039b408
+- **E-mail:** 2025311597@aluno.riogrande.ifrs.edu.br
+
+---
