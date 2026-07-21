@@ -17,11 +17,12 @@ Sou estudante do 2º ano do Ensino Médio Técnico Integrado no Instituto Federa
 
 ##  Tecnologias e Ferramentas
 
-**Linguagens e Estruturas Base:**
-- JavaScript (Lógica e Interatividade)
-- HTML5 (Semântica e Estruturação)
-- CSS3 (Estilização e Responsividade)
-- SQL (Modelagem e Consulta de Banco de Dados)
+<div style="display: inline-block"><br>
+  <img align="center" alt="Michel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Michel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Michel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Michel-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
+</div>
 
 ---
 
