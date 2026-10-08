@@ -1,6 +1,6 @@
 # Olá, eu sou o Michel! 👋
 
-### Estudante de Informática para Internet no IF | Construindo minha base em desenvolvimento de software.
+### Estudante de Informática para Internet no IF
 
 Sou estudante do 2º ano do Ensino Médio Técnico Integrado no Instituto Federal (IFRS - Campus Rio Grande). Tenho um forte interesse em desenvolvimento web, resolução de problemas e inovação. Atualmente, busco aplicar meus conhecimentos técnicos para criar soluções web eficientes e reais.
 
