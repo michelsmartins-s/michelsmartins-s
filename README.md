@@ -1,4 +1,4 @@
-# Olá, eu sou o Michel! 👋
+# Olá, eu sou o Michel! 
 
 ### Estudante de Informática para Internet no IF
 
